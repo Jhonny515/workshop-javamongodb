@@ -48,4 +48,4 @@ Para executar os testes automatizados:
 ```
 
 ---
-Este projeto é um exemplo de aplicação RESTful utilizando Spring Boot e MongoDB.
+Este projeto é um exemplo de aplicação RESTful utilizando Spring Boot e MongoDB. Foi feito a partir do curso "Java COMPLETO Programação Orientada a Objetos + Projetos" do instrutor Nelio Alves, disponível na uDemy.
