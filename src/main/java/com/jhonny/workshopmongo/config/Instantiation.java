@@ -3,8 +3,6 @@ package com.jhonny.workshopmongo.config;
 import java.text.SimpleDateFormat;
 import java.util.Arrays;
 
-import javax.xml.stream.events.Comment;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Configuration;

@@ -4,7 +4,6 @@ import java.net.URI;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.autoconfigure.jersey.JerseyProperties.Servlet;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -17,7 +16,6 @@ import com.jhonny.workshopmongo.domain.Post;
 import com.jhonny.workshopmongo.domain.User;
 import com.jhonny.workshopmongo.dto.UserDTO;
 import com.jhonny.workshopmongo.services.UserService;
-import org.springframework.web.bind.annotation.RequestParam;
 
 
 @RestController
